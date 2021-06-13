@@ -19,12 +19,12 @@
 ### 1- Robotic body <br>
 that by using cubes and solid sphere.
  
-<img src="6.PNG" alt="image not found" width="200" height="200">
+<img src="Images/6.PNG" alt="image not found" width="200" height="200">
 
 ### 2- Applying rotation for x and z axises for sholder and elbow 
 
-<img src="7.PNG" alt="image not found" width="200" height="200"> 
-<img src="8.PNG" alt="image not found" width="200" height="200">
+<img src="Images/7.PNG" alt="image not found" width="200" height="200"> 
+<img src="Images/8.PNG" alt="image not found" width="200" height="200">
 
  that by using following lines: 
 ```cpp
@@ -52,8 +52,8 @@ that by using cubes and solid sphere.
 ```
  ### 3- Applying rotation for axises for hip and knee
 
-<img src="9.PNG" alt="image not found" width="200" height="200"> 
-<img src="10.PNG" alt="image not found" width="200" height="200">
+<img src="Images/9.PNG" alt="image not found" width="200" height="200"> 
+<img src="Images/10.PNG" alt="image not found" width="200" height="200">
 
 that by using following lines: 
 
@@ -86,12 +86,12 @@ that by using following lines:
 iii- rotate around x axis<br>
 as shown in figues
 
-<img src="12.PNG" alt="image not found" width="200" height="200"> 
-<img src="13.PNG" alt="image not found" width="200" height="200">
-<img src="14.PNG" alt="image not found" width="200" height="200">
-<img src="15.PNG" alt="image not found" width="200" height="200">
-<img src="16.PNG" alt="image not found" width="200" height="200">
-<img src="17.PNG" alt="image not found" width="200" height="200">
+<img src="Images/12.PNG" alt="image not found" width="200" height="200"> 
+<img src="Images/13.PNG" alt="image not found" width="200" height="200">
+<img src="Images/14.PNG" alt="image not found" width="200" height="200">
+<img src="Images/15.PNG" alt="image not found" width="200" height="200">
+<img src="Images/16.PNG" alt="image not found" width="200" height="200">
+<img src="Images/17.PNG" alt="image not found" width="200" height="200">
 
 
 
@@ -128,10 +128,10 @@ as shown in figues
 # RESULT
 ### Here some motion that robot can do.
 <p float="left">
-<img src="1.PNG" alt="image not found" width="300" height="300"> 
-<img src="2.PNG" alt="image not found" width="300" height="300">
-<img src="3.PNG" alt="image not found" width="300" height="300">
-<img src="11.PNG" alt="image not found" width="300" height="300">
-<img src="4.PNG" alt="image not found" width="300" height="300">
+<img src="Images/1.PNG" alt="image not found" width="300" height="300"> 
+<img src="Images/2.PNG" alt="image not found" width="300" height="300">
+<img src="Images/3.PNG" alt="image not found" width="300" height="300">
+<img src="Images/11.PNG" alt="image not found" width="300" height="300">
+<img src="Images/4.PNG" alt="image not found" width="300" height="300">
 
 ---
